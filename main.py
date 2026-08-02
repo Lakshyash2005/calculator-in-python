@@ -1,45 +1,4 @@
-# import tkinter as tk 
-# from tkinter import messagebox
 
-# # messagebox.showinfo(
-# #     "Title",
-# #     "Hello"
-# # )
-# root = tk.Tk()
-# labels = tk.Label(
-#     root,
-#     text=" hello lakshya ",
-#     font=("Arial", 20),
-#     fg="red",
-#     bg="yellow",
-#     padx =20,
-#     pady= 20
-# )
-# def hello():
-#     print("Hello")
-# button =  tk.Button(
-#     root , 
-#     text = "click me ",
-#     font=("Arial",20),
-#     padx=40,
-#     pady=40,
-#     fg="green",
-#     bg = "black",
-#     command=hello
-# )
-# # this is  a text box of python/
-# entry = tk.Entry(root)
-# name = entry.get()
-# print(name)
-
-# entry.pack()
-# button.pack()
-# labels.pack()
-
-
-# root.title("my first app ")
-# root.geometry("600x400")
-# root.mainloop()
 import tkinter as tk
 
 # ----------------------------
